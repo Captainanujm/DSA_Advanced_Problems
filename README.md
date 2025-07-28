@@ -1,3 +1,3 @@
 ## Welcome to my world of DATA STRUCTURES AND ALGORITHMS...
-### Here you will get topic wise best questions with solution to ace your interviews.
+### Here you will get the code of good problems of DSA which i am solving to improve my problem solving skills .
 ### Possibly you will not get optimal approach of some questions but for maximum its mentioned that done by optimal approach..
