@@ -1,3 +1,6 @@
+//Key points-: if you have to find MAX_OR of array then you find OR of all elements in array , 
+//then you will get max_OR whether it(the MAX_OR) exists in subarray or in whole array.
+
 class Solution {
     public int countMaxOrSubsets(int[] nums) {
         ArrayList<String>list=new ArrayList<>();
